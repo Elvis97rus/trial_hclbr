@@ -100,7 +100,7 @@ export default defineComponent({
         }
     },
     mounted() {
-        // this.searchHouse()
+        this.searchHouse()
     }
 });
 </script>
