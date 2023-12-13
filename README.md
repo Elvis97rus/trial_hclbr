@@ -10,7 +10,7 @@ Skills Tested
 Primary
 PHP 8.2 (Laravel v10)
 Vue.js
-HTML 
+HTML
 GIT: Commit your work to a local Git repository within your working folder as you finish the logical parts of the task. Include the .git folder. Our company follows a commit early/commit often mantra.
 
 Bonus (optional)
